@@ -9,7 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{B869CDE3-6
 		er_post.html = er_post.html
 		forum.html = forum.html
 		Home.html = Home.html
-		Home_2.html = Home_2.html
 		reg_post.html = reg_post.html
 	EndProjectSection
 EndProject
@@ -18,7 +17,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{2642207B-A6E
 		Basic_style.css = Basic_style.css
 		er_post_style.css = er_post_style.css
 		forum_style.css = forum_style.css
-		Home2_Style.css = Home2_Style.css
 		HomeStyle.css = HomeStyle.css
 		reg_post_style.css = reg_post_style.css
 	EndProjectSection
