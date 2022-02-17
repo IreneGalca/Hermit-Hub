@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "html", "html", "{B869CDE3-6A11-4F91-8235-5097978FBE08}"
+	ProjectSection(SolutionItems) = preProject
+		Basic_Care.html = Basic_Care.html
+		er_post.html = er_post.html
+		forum.html = forum.html
+		Home.html = Home.html
+		reg_post.html = reg_post.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{2642207B-A6EF-4A43-90D8-86B37B4108F5}"
+	ProjectSection(SolutionItems) = preProject
+		Basic_style.css = Basic_style.css
+		er_post_style.css = er_post_style.css
+		forum_style.css = forum_style.css
+		HomeStyle.css = HomeStyle.css
+		reg_post_style.css = reg_post_style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E2222DC4-CC85-4D37-B9DC-6296F68B596A}"
+	ProjectSection(SolutionItems) = preProject
+		index.php = index.php
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8C8913F-BC7B-40E2-8506-7476FB1A8DA8}
+	EndGlobalSection
+EndGlobal
